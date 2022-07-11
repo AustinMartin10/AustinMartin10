@@ -3,8 +3,7 @@
 - I'm a Systems Analyst currently working at an Argentina's public healthcare organization.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on VBA projects
-- 📫 You can reach me @ agustinemartin@gmail.com
-
+- 📫 You can reach me @ <a href="mailto:agustinemartin@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 
